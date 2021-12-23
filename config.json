@@ -1,0 +1,6 @@
+{
+    "Production": {
+        "PORT": 3000,
+        "MONGODB_URI": "mongodb://localhost/mybrary"
+    }
+}
